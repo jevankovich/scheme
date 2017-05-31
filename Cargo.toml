@@ -1,0 +1,10 @@
+[package]
+name = "scheme"
+version = "0.1.0"
+authors = ["Justin Evankovich <jaevanko@mtu.edu>"]
+
+[dependencies]
+
+[[bin]]
+name = "scheme"
+path = "main.rs"
